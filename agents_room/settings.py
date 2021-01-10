@@ -25,7 +25,7 @@ SECRET_KEY = 'a9#5g@b68@i7x9b8f1n6$0clzf=bac16kh_@8g49g32oq3mc^n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['digesh-tandel-website.herokuapp.com','127.0.0.1']
 
 
 # Application definition
